@@ -1,0 +1,13 @@
+body{font-family: Arial, sans-serif;margin:0;padding:1rem;background:#f7f7f8}
+.container{max-width:900px;margin:0 auto;background:#fff;padding:1rem;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.05)}
+h1{margin-top:0}
+#input{margin-bottom:1rem}
+input, textarea, select, button{display:block;width:100%;padding:8px;margin:6px 0;border-radius:4px;border:1px solid #ddd}
+button{cursor:pointer}
+.analyzed, .suggestion, .task-item{padding:8px;border-radius:6px;border:1px solid #eee;margin:8px 0;background:#fff}
+.badge{padding:4px 8px;border-radius:12px;margin-left:8px;font-size:0.8em}
+.badge.high{background:#ffdddd;color:#900}
+.badge.medium{background:#fff0cc;color:#a60}
+.badge.low{background:#e6f7ff;color:#007}
+.small{font-size:0.85em;color:#666}
+@media(min-width:700px){input,textarea,select{width:48%;display:inline-block;margin-right:2%}}

@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "d:\\smart_task_analyzer\\.venv\\Scripts\\python.exe",
+  "python.pythonPath": "d:\\smart_task_analyzer\\.venv\\Scripts\\python.exe",
+  "python.analysis.extraPaths": [
+    "./backend"
+  ]
+}
